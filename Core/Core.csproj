@@ -7,8 +7,8 @@
     <ProjectGuid>{5576A33F-4E25-4103-B209-2320981D71AB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Core</RootNamespace>
-    <AssemblyName>Core</AssemblyName>
+    <RootNamespace>DeathlyEnterprises.Core</RootNamespace>
+    <AssemblyName>DeathlyEnterprises.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
