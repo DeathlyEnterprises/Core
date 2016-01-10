@@ -1,8 +1,8 @@
-﻿using Core.Attributes;
+﻿using DeathlyEnterprises.Core.Attributes;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Core.Tests
+namespace DeathlyEnterprises.Core.Tests
 {
     [TestFixture]
     public class InjectableAttributeTests

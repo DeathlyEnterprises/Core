@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Core.Attributes
+namespace DeathlyEnterprises.Core.Attributes
 {
     [AttributeUsage(AttributeTargets.Interface)]
     public class InjectableAttribute : Attribute
