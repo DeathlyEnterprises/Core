@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Attributes\InjectableAttribute.cs" />
+    <Compile Include="DependencyInjection\Attributes\InjectableAttribute.cs" />
     <Compile Include="DependencyInjection\IContainer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
