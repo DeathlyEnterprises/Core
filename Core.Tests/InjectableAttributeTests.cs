@@ -1,4 +1,4 @@
-﻿using DeathlyEnterprises.Core.Attributes;
+﻿using DeathlyEnterprises.Core.DependencyInjection;
 using FluentAssertions;
 using NUnit.Framework;
 
